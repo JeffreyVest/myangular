@@ -1,0 +1,626 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"as",
+				"asyncQueue"
+			],
+			[
+				"ex",
+				"expression"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"va",
+				"valueEq"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"l",
+				"lastDirtyWatch"
+			],
+			[
+				"last",
+				"lastDirtyWatch"
+			],
+			[
+				"wa",
+				"watchExecutions"
+			],
+			[
+				"old",
+				"oldValue"
+			],
+			[
+				"wat",
+				"watchExecutions"
+			],
+			[
+				"di",
+				"digestOnce"
+			],
+			[
+				"to",
+				"toBe"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ol",
+				"oldValue"
+			],
+			[
+				"w",
+				"watchFn"
+			],
+			[
+				"list",
+				"listenerFn"
+			],
+			[
+				"c",
+				"createSpy"
+			],
+			[
+				"watch",
+				"watchFn"
+			],
+			[
+				"watc",
+				"watchers"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"dig",
+				"digest"
+			],
+			[
+				"li",
+				"listenerFn"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"th",
+				"thead	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test/scope_spec.js",
+			"settings":
+			{
+				"buffer_size": 7762,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/scope.js",
+			"settings":
+			{
+				"buffer_size": 2023,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "node_modules/lodash/dist/lodash.js",
+			"settings":
+			{
+				"buffer_size": 229855,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"preview",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 164.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/JeffreyVest/Dropbox/bills/test.html",
+		"/C/Users/JeffreyVest/Dropbox/myangular/Gruntfile.js",
+		"/C/myangular/package.json",
+		"/C/play/play.vsdx/visio/_rels/document.xml.rels",
+		"/C/play/play.vsdx/visio/pages/_rels/pages.xml.rels",
+		"/C/play/play.vsdx/visio/pages/page1.xml",
+		"/C/Users/jeffrey.vest/Dropbox/play/pwc third party review.md",
+		"/C/play/play.vsdx/_rels/.rels",
+		"/C/Users/jeffrey.vest/AppData/Roaming/npm/grunt-debug.cmd",
+		"/C/Users/jeffrey.vest/AppData/Roaming/npm/grunt.cmd",
+		"/C/Users/jeffrey.vest/AppData/Roaming/npm/grunt",
+		"/C/play/play.vsdx/visio/document.xml",
+		"/C/play/play.vsdx/docProps/app.xml",
+		"/C/Users/jeffrey.vest/Dropbox/scratch.txt",
+		"/C/Users/jeffrey.vest/Dropbox/cashFlow.json",
+		"/C/git/angular-phonecat/angular-phonecat.sublime-project",
+		"/C/Users/jeffrey.vest/Dropbox/test.html",
+		"/C/Users/jeffrey.vest/Dropbox/moment-with-langs.js",
+		"/C/node/yeoman-angular/dist/index.html",
+		"/C/node/yeoman-angular/app/index.html",
+		"/C/node/yeoman-angular/bower.json",
+		"/C/node/yeoman-angular/.bowerrc",
+		"/C/node/yeoman-angular/node_modules/load-grunt-tasks/readme.md",
+		"/C/node/yeoman-angular/Gruntfile.js",
+		"/C/Users/jeffrey.vest/Dropbox/jsonclassgenerator-4a0b570f6c44/JsonCSharpClassGenerator.sln",
+		"/C/Users/jeffrey.vest/Downloads/jsonclassgenerator-4a0b570f6c44/JsonCSharpClassGenerator.sln",
+		"/C/modelTest/MonthlyBill.cs",
+		"/C/modelTest/FridayPayout.cs",
+		"/C/modelTest/PayCheck.cs",
+		"/C/modelTest/CashFlow.cs",
+		"/C/Users/jeffrey.vest/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/jeffrey.vest/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/jeffrey.vest/AppData/Roaming/Sublime Text 2/Packages/jsonlint/JSONLint.py",
+		"/C/Users/jeffrey.vest/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jeffrey.vest/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jeffrey.vest/Dropbox/Finances/Finances.sln",
+		"/C/git/mean/public/views/index.html",
+		"/C/git/mean/public/views/articles/create.html",
+		"/C/git/mean/app/controllers/index.js",
+		"/C/git/mean/public/views/articles/view.html",
+		"/C/git/mean/app/views/index.jade",
+		"/C/git/mean/app/models/article.js",
+		"/C/git/mean/server.js",
+		"/C/git/mean/package.json",
+		"/C/git/mean/gruntfile.js",
+		"/C/git/mean/public/js/config.js",
+		"/C/git/mean/public/js/controllers/index.js",
+		"/C/git/mean/config/express.js",
+		"/C/git/mean/app/routes/index.js",
+		"/C/git/mean/app/views/includes/foot.jade",
+		"/C/git/mean/app/views/layouts/default.jade",
+		"/C/git/mean/public/views/header.html",
+		"/C/git/mean/config/config.js",
+		"/C/git/mean/.nodemonignore",
+		"/C/node/firebase/intense-fire-8618/app/js/controllers.js",
+		"/C/node/firebase/intense-fire-8618/app/partials/home.html",
+		"/C/node/firebase/intense-fire-8618/config/security-rules.json",
+		"/C/node/firebase/intense-fire-8618/app/js/service.firebase.js",
+		"/C/chrome-ext/boa-check-images/manifest.json",
+		"/C/chrome-ext/boa-check-images/background.js",
+		"/C/chrome-ext/boa-check-images/myscript.js",
+		"/C/chrome-ext/boa-check-images/myscripts.js",
+		"/C/Users/jeffrey.vest/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/chrome-ext/boa-check-images/popup.html",
+		"/C/chrome-ext/boa-check-images/popup.js",
+		"/C/git/chromeHAR/index.html",
+		"/C/git/chromeHAR/js/controllers.js",
+		"/C/Users/jeffrey.vest/Downloads/PwC/Work Request Tasks.har",
+		"/C/git/chromeHAR/test/runner.html",
+		"/C/git/chromeHAR/test/.jshintrc",
+		"/C/git/chromeHAR/test/spec/controllers/main.js",
+		"/C/git/chromeHAR/js/script.js",
+		"/C/node/yeoman-angular/app/scripts/app.js",
+		"/C/git/chromeHAR/Gruntfile.js",
+		"/C/git/chromeHAR/bower.json",
+		"/C/node/yeoman-angular/package.json",
+		"/C/node/yeoman-angular/app/views/main.html",
+		"/C/node/yeoman-angular/app/scripts/controllers/main.js",
+		"/C/node/yeoman-angular/.tmp/styles/main.css",
+		"/C/node/yeoman-angular/app/404.html",
+		"/C/node/yeoman-webapp/Gruntfile.js",
+		"/C/node/yeoman-webapp/bower.json",
+		"/C/git/chromeHAR/chrome/dataGrid.css",
+		"/C/git/chromeHAR/bower_components/jquery/composer.json",
+		"/C/git/chromeHAR/bower_components/jquery/component.json",
+		"/C/wamp/www/jquery-ui/Gruntfile.js",
+		"/C/Users/jeffrey.vest/Documents/AutoHotkey.ahk",
+		"/C/dev-client/PwC-CMS/Development/Source/PwC CMS/PwC.CMS.WinService/Dependancies/Install Service.bat",
+		"/C/wamp/www/jquery-ui/vnu.txt",
+		"/C/wamp/www/jquery-ui/node_modules/grunt-html/tasks/html.js",
+		"/C/wamp/www/jquery-ui/node_modules/grunt-html/lib/htmllint.js",
+		"/C/wamp/www/jquery-ui/build/tasks/build.js",
+		"/C/git/chromeHAR/bower_components/angular/bower.json",
+		"/C/git/chromeHAR/bower_components/angular/.bower.json",
+		"/C/wamp/www/jquery-ui/grunt.txt",
+		"/C/wamp/www/jquery-ui/.jscs.json",
+		"/C/wamp/www/jquery-ui/ui/jquery.ui.accordion.js",
+		"/C/wamp/www/jquery-ui/.gitattributes",
+		"/C/wamp/www/jquery-ui/.gitignore",
+		"/C/git/jquery-ui/demos/sortable/connect-lists-scroll.html",
+		"/C/wamp/www/test/test.php",
+		"/C/git/jquery-ui/ui/jquery.ui.sortable.js",
+		"/C/git/jquery-ui/Gruntfile.js",
+		"/C/git/jquery-ui/package.json",
+		"/C/git/jquery-ui/dist/jquery-ui.min.js",
+		"/C/git/jquery-ui/dist/jquery-ui.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\play\\play.vsdx",
+			"",
+			"C:\\node\\yeoman-angular"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"foreach",
+			"getArticle(",
+			"getArticle(0)",
+			"article",
+			"h4",
+			"td",
+			";",
+			"google",
+			"app",
+			"concat",
+			"dep.js",
+			"dep",
+			"day",
+			"refer",
+			"500",
+			"debugger",
+			"debug",
+			"please fill",
+			"ui-utils",
+			"routeProvider",
+			"lodash",
+			"Global",
+			"config.js",
+			"index.html",
+			"public",
+			"this is the home view",
+			"this is the home vie",
+			"HeaderController",
+			"<a class=\"navbar-brand\" href=\"/\">MEAN - A Modern Stack</a>",
+			"jade",
+			"public",
+			"jade",
+			"this is the home view",
+			"a modern stack",
+			"app.get",
+			"router",
+			"MONGOHQ_URL",
+			"NODE_ENV",
+			"install",
+			"syncData",
+			"syncedValue",
+			"ConfirmationComponent",
+			"12632",
+			");\n",
+			"pageref",
+			"\"text\"",
+			"http://localhost:4566/Account/_Navigation",
+			"getconfirmations",
+			"_entry",
+			"entries",
+			"selectedEntry",
+			"timing",
+			"tab",
+			"NetworkCtrl",
+			"timing",
+			"tab",
+			"timing",
+			"getTab(",
+			"getTab",
+			"Timing",
+			"coffee",
+			"base",
+			"livereload",
+			"connect",
+			"autoprefixer",
+			"main.css",
+			".tmp",
+			"usemin",
+			"dist",
+			"_gettaskdetail",
+			"div",
+			"div class=\"task-header\"",
+			"<div class=\"task-header\">",
+			"\"url\":",
+			"scrollParent()",
+			"scrollParent",
+			"_contact",
+			"scrollparent",
+			"currentcontainer",
+			"div",
+			"minify",
+			"concat",
+			"connectedSortable",
+			"drag",
+			"drop",
+			"drag"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test/scope_spec.js",
+					"settings":
+					{
+						"buffer_size": 7762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6495,
+								6495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4061.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/scope.js",
+					"settings":
+					{
+						"buffer_size": 2023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1342,
+								1342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "node_modules/lodash/dist/lodash.js",
+					"settings":
+					{
+						"buffer_size": 229855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109895,
+								109895
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 49094.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/scratch.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}
